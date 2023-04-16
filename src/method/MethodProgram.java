@@ -15,6 +15,9 @@ package method;
 	//We can return primitive and non primitive values
 	//if we return void it does not return anything but still we can give return keyword in void method
 	//if method not returning anything we can not store or call method from printing statement it will give CTE
+	
+	//IMP
+	//If return type is void we can not call method in printing statement or we can not store the method value
 
 
 public class MethodProgram {

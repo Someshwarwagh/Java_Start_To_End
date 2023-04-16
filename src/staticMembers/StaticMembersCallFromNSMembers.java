@@ -1,4 +1,4 @@
-package AAAPractice;
+package staticMembers;
 
 public class StaticMembersCallFromNSMembers {
 
