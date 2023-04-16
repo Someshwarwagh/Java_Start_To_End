@@ -1,6 +1,6 @@
 package encapsulation;
 
-public class Flipkart {
+public class Exp2Flipkart {
 
 	public static void main(String[] args) {
 		

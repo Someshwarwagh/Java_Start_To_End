@@ -1,6 +1,6 @@
 package encapsulation;
 
-public class School {
+public class Exp3School {
 
 	public static void main(String[] args) {
 		// Encapsulation we can achieve by creating variables private and by creating setter getter

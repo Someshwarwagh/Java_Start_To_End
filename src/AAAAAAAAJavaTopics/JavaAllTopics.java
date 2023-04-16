@@ -92,7 +92,7 @@ public class JavaAllTopics {
 //	19.Relationships --> Has_a Relationship and Is_a Relationship
 //	20.Object Oriented Programming(oops)
 //		-Encapsulation --> Data Hiding,Private Keyword, Getter Method, Setter Method 
-//		-Inheritance
+//		-Inheritance   -->Super(), Constructor chaining
 //		-Polymorphism
 //		-Abstraction
 //	

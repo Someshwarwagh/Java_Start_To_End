@@ -1,6 +1,6 @@
 package encapsulation;
 
-public class Company {
+public class Exp1Company {
 
 	public static void main(String[] args) {
 
