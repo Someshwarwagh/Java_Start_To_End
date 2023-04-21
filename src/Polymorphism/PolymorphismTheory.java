@@ -35,5 +35,16 @@ public class PolymorphismTheory {
 		//then we need to create an object reference variable for parent class and pass the address from child to parent class
 	
 		//2.DownCasting
+		//It is a process of converting the reference from parent to child class
+		//We can not perform downcasting automatically
+		//In order to perform downcasting we need to take help of Cast Operator
+		//In order to perform downcasting we need to create object for child class such that we can load the members of its own class and child class
+		//To do downcasting upcasting is mandatory
 	
+	//2.Method Overriding
+	//Its a process of overriding parent class method implementation by child class method implementation is called as method overriding
+	//Rules of perform method overriding:
+		//1.There should be Is_a relationship
+		//2.Method header of both parent and child class has to be same
+		//3.we need to create an object of child class
 }

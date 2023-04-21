@@ -91,10 +91,21 @@ public class JavaAllTopics {
 //	18.This Keyword
 //	19.Relationships --> Has_a Relationship and Is_a Relationship
 //	20.Object Oriented Programming(oops)
-//		-Encapsulation --> Data Hiding,Private Keyword, Getter Method, Setter Method 
-//		-Inheritance   -->Super(), Constructor chaining
-//		-Polymorphism
-//		-Abstraction
+//		a>Encapsulation --> Data Hiding,Private Keyword, Getter Method, Setter Method 
+//		b>Inheritance and 5 types
+//			-Super Call Statement (super())
+//			-This Call Statement (this())
+//			-Constructor Chaining
+//		c>Polymorphism
+//			-c.1>Compile Time Polymorphism
+//				-Method Overloading
+//				-Constructor Overloading
+//			-c.2>Run Time Polymorphism
+//				-Derived Type Casting(non-primitive type casting)
+//					-Upcasting
+//					-DownCasting
+//				-Method Overriding
+//		d>Abstraction
 //	
 //	
 //	
